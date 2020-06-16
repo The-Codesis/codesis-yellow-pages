@@ -28,7 +28,7 @@
 ### 5️⃣ Create a `.md` file with format `<github username>.md` in:
   - *Moderators* directory if you are a Moderator
   - *Mentors* directory if you are a Mentor
-  - *Codestars* directory if you are a Codestar
+  - *Members* directory if you are a Member
 
   You can add the following information about yourself:
   - About
