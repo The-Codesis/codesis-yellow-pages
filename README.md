@@ -8,13 +8,13 @@
 ### 2️⃣ Clone the repo locally
 
 ```
-  git clone git@github.com:<your-github-username>/codesis-yellow-pages.git
+  git clone https://github.com/<your-github-username>/codesis-yellow-pages.git
 ```
 
 ### 3️⃣ Track the original repository as a remote of the fork 
 
 ```
-  git remote add --track master upstream git@github.com:The-Codesis/codesis-yellow-pages.git
+  git remote add --track master upstream https://github.com/The-Codesis/codesis-yellow-pages.git
   git fetch upstream
 ```
     
