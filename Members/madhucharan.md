@@ -4,11 +4,11 @@
 
 Glad to be a member of this community.
 
-Well I am a tech enthusiast who always wants to learn something.
+Well I am a tech enthusiast who always wants to learn new skills.
 
-I am from ANDRA PRADESH, INDIA.
+I am from ANDHRA PRADESH, INDIA.
 
-My Tech SKills : Machine Learning,Data Analysis
+My Tech SKills   : Machine Learning,Data Analysis
 
 Web Technologies : HTML,CSS,JAVA SCRIPT
 
@@ -16,10 +16,10 @@ Coding Languages : C,C++,JAVA,PYTHON.
 
 You can catch me at :
 
-Twitter : @MadhuCharanM
+Twitter  : [@MadhuCharanM](https://twitter.com/MadhuCharanM)
 
-LinkedIn : https://www.linkedin.com/in/madhucharan/
+LinkedIn : [Madhu Charan](https://www.linkedin.com/in/madhucharan/)
 
-GitHub : madhucharan
+GitHub   : [madhucharan](https://github.com/madhucharan)
 
-### Thank ya !!
+### Thank you !
