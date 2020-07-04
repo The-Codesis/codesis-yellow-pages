@@ -6,7 +6,8 @@ Hello Everyone! I am an incoming freshman at the department of Computer Science,
 New Delhi, India
 
 ## Skills
-- HTML, CSS
+- HTML
+- CSS
 - JavaScript
 - ReactJS
 - NodeJS
@@ -15,13 +16,15 @@ New Delhi, India
 - My SQL
 - C++
 - Python
-- Adobe Illustrator, Photoshop, Indesign
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Indesign
 - Figma
 
 ## Projects I am most proud of
 Vera is a chatbot that I designed to help people overcome depression and improve their mental health.
 
-##Find me up on
+## Find me up on
 [LinkedIn](https://www.linkedin.com/in/ansh-dhingra-a88621197/)
 [GitHub](https://github.com/anshdhinhgra47)
 
