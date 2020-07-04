@@ -6,20 +6,20 @@ Hello Everyone! I am an incoming freshman at the department of Computer Science,
 New Delhi, India
 
 ## Skills
--HTML
--CSS
--JavaScript
--ReactJS
--NodeJS
--ExpressJS
--MongoDB
--My SQL
--C++
--Python
--Adobe Illustrator
--Adobe Photoshop
--Adobe Indesign
--Figma
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- NodeJS
+- ExpressJS
+- MongoDB
+- My SQL
+- C++
+- Python
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Indesign
+- Figma
 
 ## Projects I am most proud of
 Vera is a chatbot that I designed to help people overcome depression and improve their mental health.
